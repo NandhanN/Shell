@@ -1,1 +1,1 @@
-git push -set-downstream Origin main 
+Git push set-downstream Origin shell
